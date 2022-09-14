@@ -5,4 +5,4 @@
 * веселое :smiley:
 * грустное :pensive:
 * сонное :sleepy:
-* рабочее :ok_hand:
+* **рабочее** :ok_hand:
